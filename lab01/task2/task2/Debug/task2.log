@@ -1,0 +1,25 @@
+﻿  flipByte.cpp
+S:\Infotech\11_Klass\11_1\Egoshin\lab01\task2\task2\flipByte.cpp(69,20): warning C4018: '<': signed/unsigned mismatch
+  task2.vcxproj -> S:\Infotech\11_Klass\11_1\Egoshin\lab01\task2\Debug\flipByte.exe
+  Comparing files test01.txt and C:\USERS\STUDENT\APPDATA\LOCAL\TEMP\TEST01.TXT
+  FC: no differences encountered
+  
+  Comparing files test02.txt and C:\USERS\STUDENT\APPDATA\LOCAL\TEMP\TEST02.TXT
+  FC: no differences encountered
+  
+  Comparing files test03.txt and C:\USERS\STUDENT\APPDATA\LOCAL\TEMP\TEST03.TXT
+  FC: no differences encountered
+  
+  Comparing files test04.txt and C:\USERS\STUDENT\APPDATA\LOCAL\TEMP\TEST04.TXT
+  FC: no differences encountered
+  
+  Comparing files test05.txt and C:\USERS\STUDENT\APPDATA\LOCAL\TEMP\TEST05.TXT
+  FC: no differences encountered
+  
+  Comparing files test06.txt and C:\USERS\STUDENT\APPDATA\LOCAL\TEMP\TEST06.TXT
+  FC: no differences encountered
+  
+  Comparing files test07.txt and C:\USERS\STUDENT\APPDATA\LOCAL\TEMP\TEST07.TXT
+  FC: no differences encountered
+  
+  Program testing succeeded
