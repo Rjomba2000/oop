@@ -1,4 +1,0 @@
-﻿  multimatrix.vcxproj -> S:\Infotech\11_Klass\11_1\Egoshin\lab01\task3\multimatrix\Debug\multimatrix.exe
-  Program testing failed
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(153,5): error MSB3073: The command ""S:\Infotech\11_Klass\11_1\Egoshin\lab01\task3\multimatrix\multimatrix\tests.bat" "S:\Infotech\11_Klass\11_1\Egoshin\lab01\task3\multimatrix\Debug\multimatrix.exe"
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(153,5): error MSB3073: :VCEnd" exited with code 1.
