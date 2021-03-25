@@ -1,6 +1,0 @@
-﻿  tests.cpp
-  class template optional is only available with C++17 or later.
-c:\users\egosh\desktop\кеки\clabs\lab02\task02_v03\task02_v03\stringfunctions.h(8): error C2039: optional: не является членом "std"
-  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\iostream(14): note:  см. объявление "std"
-c:\users\egosh\desktop\кеки\clabs\lab02\task02_v03\task02_v03\stringfunctions.h(8): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
-c:\users\egosh\desktop\кеки\clabs\lab02\task02_v03\task02_v03\stringfunctions.h(8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
